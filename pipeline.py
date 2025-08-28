@@ -1,1 +1,1 @@
-### need to find workaround for Windows system
+# Will use Docker to get around Windows compatibility issues
